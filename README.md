@@ -14,7 +14,7 @@
 You can install the latest release via [`pip`](https://pypi.org/project/pip/):
 
 ```bash
-pip install <PYPI_NAME>
+pip install ape-blockscout
 ```
 
 ### via `setuptools`
@@ -44,3 +44,9 @@ Comments, questions, criticisms and pull requests are welcomed.
 ## License
 
 This project is licensed under the [Apache 2.0](LICENSE).
+
+## Project also live on Radicle
+
+(web) https://app.radicle.network/seeds/maple.radicle.garden/rad:git:hnrkr834rbfm6b9it7gnqg6fatwokxqi53y1y
+(web) https://app.radicle.network/seeds/maple.radicle.garden/rad:git:hnrkr834rbfm6b9it7gnqg6fatwokxqi53y1y/remotes/hyy5ciubq44c85qbj1p1jirixjcrg8dsihqa13ferxkug6fua6zbza
+(git) https://maple.radicle.garden/hnrkr834rbfm6b9it7gnqg6fatwokxqi53y1y.git
