@@ -1,0 +1,2 @@
+API_KEY_ENV_VAR_NAME = "BLOCKSCOUT_API_KEY"
+BLOCKSCOUT_URI = "https://blockscout.com/"
