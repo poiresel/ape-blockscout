@@ -1,6 +1,7 @@
-# <PROJECT_NAME>
+# Ape Blockscout Plugin
 
-TODO: Description
+### Blockscout Explorer Plugin for Ethereum-based networks.
+
 
 ## Dependencies
 
@@ -21,14 +22,18 @@ pip install <PYPI_NAME>
 You can clone the repository and use [`setuptools`](https://github.com/pypa/setuptools) for the most up-to-date version:
 
 ```bash
-git clone https://github.com/ApeWorX/<PYPI_NAME>.git
-cd <PYPI_NAME>
+git clone https://github.com/poirsel/ape-blockscout.git
+cd ape-blockscout
 python3 setup.py install
 ```
 
 ## Quick Usage
 
-TODO: Describe library overview in code
+### TODO
+
+More support for other chains
+Currently limited by the networks supported in the core ape library
+Would like to expand this to support xdai (arbitrum, optimism, and mainnet)
 
 ## Development
 
